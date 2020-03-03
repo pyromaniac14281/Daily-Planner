@@ -1,0 +1,23 @@
+.AddTodoButton {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f23363;
+    border: none;
+    border-radius: 100%;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.AddTodoButton__icon {
+    width: 20px;
+}
+
+.AddTodoButton:hover {
+    box-shadow: 2px 3px 20px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,14 @@
+.Topbar-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Topbar-menu__icon {
+    width: 25px;
+    height: 25px;
+    opacity: 0.8;
+}
+
+.Topbar-menu__icon-image {
+    width: 100%;
+}
