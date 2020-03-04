@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react-dom": "^16.13.0",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
@@ -15,5 +15,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "A daily planner todolist type web app built using React and Redux.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyromaniac14281/Daily-Planner.git"
+  },
+  "author": "\u001b[A\u001b[C\u001b[C Vinesh Pendyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyromaniac14281/Daily-Planner/issues"
+  },
+  "homepage": "https://github.com/pyromaniac14281/Daily-Planner#readme"
 }
